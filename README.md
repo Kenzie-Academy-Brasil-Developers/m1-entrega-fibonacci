@@ -1,2 +1,2 @@
-# m1-entrega-fibonacci
+# Fibonacci
 Entrega destinada ao aperfeiçoamento da lógica dos alunos.
